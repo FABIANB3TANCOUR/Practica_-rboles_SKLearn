@@ -24,7 +24,7 @@ En pocas palabras, se prefiere max_depth=2 si la explicabilidad es más importan
 
 ## ¿Cumple la base de conocimiento con los requerimientos?
 
-### Respuesta ###: Sí, la base de conocimiento (Wine Dataset) cumple completamente con los requerimientos para ser utilizada en un modelo de Árbol de Decisiones (y, en general, en la mayoría de los clasificadores supervisados).
+Sí, la base de conocimiento (Wine Dataset) cumple completamente con los requerimientos para ser utilizada en un modelo de Árbol de Decisiones (y, en general, en la mayoría de los clasificadores supervisados).
 
 ## Justificación
 
