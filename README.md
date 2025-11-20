@@ -3,18 +3,29 @@
 ## Actividades:
 
 -Desarrolla el archivo en python que genera el modelo y muestre la precisión que se consiguió  y subelo en un repositorio.
+
 -Cambia el parámetro max_depth de DecisionTreeClassifier y observa cómo cambian las reglas del árbol.
+
 -Prueba a entrenar el modelo sin limitar la profundidad (max_depth=None). ¿Qué notas en las reglas?
+
 -Evalúa la precisión del modelo en los datos de prueba:
 print("Precisión en datos de prueba:", tree.score(X_test, y_test))
+
 -Genera un README en  donde coloques:
+
 .Cuales son tus opiniones de los resultados.
+
 .Si crees que tu base de conocimiento cumple con los requerimientos para utilizarse en un modelo de árbol de decisiones.
+
 .Justifica el porqué sí o por qué no.
+
  De ser tú respuesta sí:
+ 
  Anota las características que tendría y las clases.
+ 
  De ser no:
--Describe qué cambio se tendrían que hacer para poder utilizarlos o de no ser posible explica si se podría usar el método de regresión. 
+ 
+ Describe qué cambio se tendrían que hacer para poder utilizarlos o de no ser posible explica si se podría usar el método de regresión. 
 
 ## Opiniones de los Resultados
 
